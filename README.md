@@ -46,14 +46,20 @@ Welcome to **RPG - Dragon Repeller**, a text-based role-playing game where your 
 
 ## Screenshots
 
-![Game Start](path/to/screenshot1.png)
 *The starting screen in the town square.*
 
-![Store](path/to/screenshot2.png)
+![Game Start](https://github.com/user-attachments/assets/09126bce-f687-4536-9de3-b0d508bed7a1)
+
+
 *Inside the store where you can buy health and weapons.*
 
-![Battle](path/to/screenshot3.png)
+![Store](https://github.com/user-attachments/assets/24e6acda-65e6-4744-922e-54df8d2ea530)
+
+
 *Fighting a monster in the cave.*
+
+![Battle](https://github.com/user-attachments/assets/f51e401b-3191-4d27-a1c3-bbaac54b8679)
+
 
 ## Code Overview
 
